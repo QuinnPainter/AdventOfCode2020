@@ -1,0 +1,18 @@
+3, 4 = 1 diff, 1 amp
+
+3, 5 = 2 diff, 3 amp
+
+17 13 2 = 102 start, 104 end
+mesh point = 221
+cascade point difference = -119 start, -117 end
+
+
+16014 17
+16015
+16016 13
+16017 19
+
+3417 17
+3418
+3419 13
+3420 19
